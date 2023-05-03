@@ -43,7 +43,7 @@ Disadvantages:
 1.Distorance of orginal variable
 
 
-#2. Random Sample Imputation
+# 2. Random Sample Imputation
 
 Take the random observation from the datasets and we use this observation to replace the nan values.
 
@@ -72,14 +72,14 @@ Disadvantage.
 -Increase cure of dimensinionality.
 
 
-#4. End of distribution imputation.
+# 4. End of distribution imputation.
 
 used in not missing completely at random 
 we have to look at the end of the right hand side of normal distribution and we can replace the nan values with that values
 It will handle the outlier with an ease.
 
 
-#5. Aritrary imputation 
+# 5. Aritrary imputation 
 
 It consist of replacing the nan values by an arbitary value
 This method was found out in kaggle competation
